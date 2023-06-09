@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'VisbyCF';
+  src: url('/Visby-CF/Visby-CF.woff') format('woff');
+
+}
+
+@font-face {font-family: "Visby CF Medium"; src: url("//db.onlinewebfonts.com/t/79927a8d010a79419f5c30e4d87409d5.eot"); src: url("//db.onlinewebfonts.com/t/79927a8d010a79419f5c30e4d87409d5.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/79927a8d010a79419f5c30e4d87409d5.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/79927a8d010a79419f5c30e4d87409d5.woff") format("woff"), url("//db.onlinewebfonts.com/t/79927a8d010a79419f5c30e4d87409d5.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/79927a8d010a79419f5c30e4d87409d5.svg#Visby CF Medium") format("svg"); }
+
+body{
+  background-color: #1C1718;
+  font-family: "Visby CF Medium";
+  position: relative;
+}
+
+h1,h2,p,li{
+  color: white;
+}
+
