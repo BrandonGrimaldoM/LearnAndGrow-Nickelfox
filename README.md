@@ -1,6 +1,6 @@
 # Learn & Grow Desktop Template
 
-This template was created based on Nickelfox's design in figma.
+This template was created using the Nickelfox design in figma.
 
 https://learn-and-grow.vercel.app/
 
